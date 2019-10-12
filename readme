@@ -1,0 +1,10 @@
+Steps to Run the application
+
+-.Add the project directory to a php server
+-.And access HOST/directory_name
+
+Test Data
+
+1.Login using(hard coded) following details: username: admin password: password
+2.Type anything in the form
+3.Click enter. if the token validates a success message will appear.if not an error message will appear.
